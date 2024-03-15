@@ -84,3 +84,7 @@ Altera a categoria com o `id` informado.
   "nome": "Alimentação",
   "icone": "fast-food"
 }
+
+```
+
+### Movimentações
